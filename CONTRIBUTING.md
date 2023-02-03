@@ -25,6 +25,7 @@ When submiting a bug report please provide the following information.
 2. Do all changes in your forked copy.
 3. If a bug fix or new feature then ensure that your thoroughly test your changes before commiting.
 4. If testing is performed fully document your testing. Include testing details and reults in a test folder named *(your name)_(change name)*
-5. Commit your changes to your fork.
-6. Submit a pull request. 
-7. Handle any feedback before the request is merged.
+5. Ensure you added your name to the authors list in any file you changed or created
+6. Commit your changes to your fork.
+7. Submit a pull request. 
+8. Handle any feedback before the request is merged.

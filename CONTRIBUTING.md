@@ -7,10 +7,11 @@ Please note we have a [Code of Conduct](https://github.com/aminojaku/github-fina
 
 ## Coding Standards
 
-Please follow the PEP 8 Python Coding Style Guidelines. 
+Please follow the [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html) for Bash scrips and the [PEP 8 Python Coding Style Guidelines](https://peps.python.org/pep-0008/) for Python scripts. 
 
 ## Bug Reports
 
+Bug repost are submitted in [Issues](https://github.com/aminojaku/github-final-project/issues).  
 When submiting a bug report please provide the following information. 
 - Quick summary statement of the issue. 
 - Version issue found on.
